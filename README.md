@@ -135,4 +135,4 @@ Este projeto faz parte dos estudos sobre **Python, desenvolvimento web e Intelig
 
 ## 👩‍💻 Autora
 
-**P**
+**Polly**
